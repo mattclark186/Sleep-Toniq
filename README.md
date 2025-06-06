@@ -1,2 +1,6 @@
 # Sleep-Toniq
-I analysed data for this drinks brand regarding repeat customers, customer lifetime value, discounts given and more.
+SQL, Tableau
+
+[Dashboards(Tableau)](https://public.tableau.com/views/SleepToniq/CustomerRetentionCLV?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[SQL File]
